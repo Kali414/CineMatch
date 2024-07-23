@@ -1,2 +1,2 @@
 # Recommender-system
-This is a project to recoomend movies.
+This is a project to recommend movies.
