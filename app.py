@@ -38,7 +38,7 @@ def recommend(movie):
 
     return recommended_names,recommended_movie_posters
 
-st.header('Movie recommender System')
+st.header('# 🎬 CineMatch - Content-Based Movie Recommender System')
 movies=pickle.load(open('movie_list.pkl','rb'))
 similarity=pickle.load(open('similarity.pkl','rb'))
 
